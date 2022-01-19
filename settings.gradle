@@ -1,0 +1,2 @@
+rootProject.name = "AnalyticsKitDemoCansu"
+include ':app'
