@@ -12,7 +12,7 @@
 /captures
 AnalyticsKitDemoCansu.jks
 /app/agconnect-services.json
-app/release
+/app/release
 .externalNativeBuild
 .cxx
 local.properties
